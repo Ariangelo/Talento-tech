@@ -27,4 +27,5 @@ Para executar o programa que crie este Layout você deve:
 - A atividade “Programa Calculadora na WEB” deverá ser realizada através da criação de um aplicativo WEB simples, que crie uma Calculadora em um layout responsivo, e sua publicação no Github.io, depois de criada e hospedada o aplicativo, o aluno deverá disponibilizar o link de acesso para este aplicativo, bem como o repositório onde o mesmo está armazenado.
 
 **RESULTADO ESPERADO:** 
-- [App-calculadora](https://aula-talento-teck.github.io/app-calculadora/)
+
+- [**App-calculadora**](https://aula-talento-teck.github.io/app-calculadora/)
