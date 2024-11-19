@@ -8,7 +8,7 @@ Como atividade está prevista a criação de um programa para aplicação de alg
 
 Para orientar a realização das atividades previstas o aluno deverá assistir os vídeos da Unidade 3 ([**Programa calculadora - parte 1**](https://youtu.be/PpqrsmgEo5g) **e** [**Programa calculadora - parte 2**](https://youtu.be/aaixyLsN_NU)), o aluno deverá realizar a atividade proposta e depois disponibilizar os links de acesso para as atividades realizadas.
 
-&nbsp;**Programa Calculadora:**
+**Programa Calculadora:**
 
 Nessa atividade é apresentado o passo-a-passo para criar um programa que mostra os comandos para gerenciar entrada e saída de dados, bem como as estruturas de dados necessárias para criação de procedimentos de gerenciamento e processamento dos dados necessários para realização da criação de uma calculadora.
 
