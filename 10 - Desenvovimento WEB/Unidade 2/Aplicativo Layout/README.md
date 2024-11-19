@@ -1,16 +1,14 @@
-# App Layout
+# Aplicativo Layout
 
-Sistema desenvolvido como atividade vinculada ao Módulo 2 do curso Desenvolvimento WEB.
+Programa utilizando Flutter.
+- [**App-layout**](https://aula-talento-teck.github.io/app-layout/)
 
-## Getting Started
+## Introdução
 
-This project is a starting point for a Flutter application.
+Este projeto é um ponto de partida para um aplicativo Flutter.
+Alguns recursos para você começar se este for seu primeiro projeto Flutter:
 
-A few resources to get you started if this is your first Flutter project:
+- [Laboratório: Escreva seu primeiro aplicativo Flutter](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Amostras úteis do Flutter](https://docs.flutter.dev/cookbook)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para obter ajuda para começar com o desenvolvimento do Flutter, veja a [documentação online](https://docs.flutter.dev/), que oferece tutoriais, amostras, orientação sobre desenvolvimento e uma referência completa da API.

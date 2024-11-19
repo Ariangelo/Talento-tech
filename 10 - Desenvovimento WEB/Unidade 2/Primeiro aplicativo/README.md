@@ -1,12 +1,11 @@
 # Primeiro aplicativo
 
-O primeiro programa utilizando Flutter.
+Programa utilizando Flutter.
 - [**App-primeiro**](https://aula-talento-teck.github.io/app-primeiro/)
 
 ## Introdução
 
 Este projeto é um ponto de partida para um aplicativo Flutter.
-
 Alguns recursos para você começar se este for seu primeiro projeto Flutter:
 
 - [Laboratório: Escreva seu primeiro aplicativo Flutter](https://docs.flutter.dev/get-started/codelab)
