@@ -1,4 +1,4 @@
-# **Unidade 1:** Fundamentos da Programação WEB
+# Unidade 1: Fundamentos da Programação WEB
 
 Essa unidade apresenta a motivação para desenvolver trabalhos utilizando a linguagem de programação HTML, além de apresentar os conceitos iniciais que envolvem a plataforma de utilização do HTML. É mostrado como é realizada a configuração do ambiente de GitHub, para que seja possível iniciar a construção de algumas aplicações simples, envolvendo a publicação de páginas simples de HTML.
 
