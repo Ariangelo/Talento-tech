@@ -1,4 +1,4 @@
-**Unidade 2**: Aplicações Práticas de Flutter em Projetos
+# Unidade 2: Aplicações Práticas de Flutter em Projetos
 
 Nesta unidade  será apresentado ao aluno a forma básica de um sistema desenvolvido em [Flutter](https://flutter.dev/)  que utiliza a IDE online [Project IDX](https://idx.dev/). Esta segunda atividade consiste na criação de:
 
