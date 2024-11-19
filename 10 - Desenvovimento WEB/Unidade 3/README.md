@@ -17,7 +17,7 @@ Para executar o programa que crie este Layout você deve:
 - Criar um projeto na IDE online no [Project IDX](https://idx.dev/): quando é criado um projeto na IDE do [Project IDX](https://idx.dev/), você cria um ambiente para desenvolver e executar as suas aplicações usando a plataforma de desenvolvimento [Visual Studio Code](https://code.visualstudio.com/). O uso dessa IDE elimina necessidades de configurações manuais e facilita o desenvolvimento e teste das suas aplicações.
 - Criar e executar o código Flutter: o [Visual Studio Code](https://code.visualstudio.com/) irá automaticamente executar o código conforme condição de início definida, normalmente de forma automática em um ambiente emulado de uma página WEB.
 
-&nbsp;**VÍDEO AULA:**
+**VÍDEO AULA:**
 
 - [**Programa calculadora - parte 1**](https://youtu.be/PpqrsmgEo5g)
 - [**Programa calculadora - parte 2**](https://youtu.be/aaixyLsN_NU)
@@ -25,6 +25,6 @@ Para executar o programa que crie este Layout você deve:
 **ATIVIDADE:**
 
 - A atividade “Programa Calculadora na WEB” deverá ser realizada através da criação de um aplicativo WEB simples, que crie uma Calculadora em um layout responsivo, e sua publicação no Github.io, depois de criada e hospedada o aplicativo, o aluno deverá disponibilizar o link de acesso para este aplicativo, bem como o repositório onde o mesmo está armazenado.
-- **RESULTADO ESPERADO:**
 
-[App-calculadora](https://aula-talento-teck.github.io/app-calculadora/)
+**RESULTADO ESPERADO:** 
+- [App-calculadora](https://aula-talento-teck.github.io/app-calculadora/)
