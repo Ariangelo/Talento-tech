@@ -6,7 +6,7 @@ Nesta unidade  será apresentado ao aluno a forma básica de um sistema desenvol
 
 Como atividade está prevista a criação de um programa para aplicação de alguns conceitos.
 
-Para orientar a realização das atividades previstas o aluno deverá assistir os vídeos da Unidade 4 ([**Programa calculadora - parte 1**](https://youtu.be/3rnOwtS6APo) **e** [**Programa calculadora - parte 2**](hhttps://youtu.be/aaixyLsN_NU)), o aluno deverá realizar a atividade proposta e depois disponibilizar os links de acesso para as atividades realizadas.
+Para orientar a realização das atividades previstas o aluno deverá assistir os vídeos da Unidade 4 ([**Programa Jogo da Velha - parte 1**](https://youtu.be/3rnOwtS6APo) **e** [**Programa Jogo da Velha - parte 2**](https://youtu.be/v0ZP6CbRaZA)), o aluno deverá realizar a atividade proposta e depois disponibilizar os links de acesso para as atividades realizadas.
 
 **Programa Jogo da Velha:**
 
@@ -19,8 +19,8 @@ Para executar o programa que crie este Layout você deve:
 
 **VÍDEO AULA:**
 
-- [**Programa calculadora - parte 1**](https://youtu.be/3rnOwtS6APo)
-- [**Programa calculadora - parte 2**](hhttps://youtu.be/aaixyLsN_NU)
+- [**Programa Jogo da Velha - parte 1**](https://youtu.be/3rnOwtS6APo)
+- [**Programa Jogo da Velha - parte 2**](https://youtu.be/v0ZP6CbRaZA)
 
 **ATIVIDADE:**
 
