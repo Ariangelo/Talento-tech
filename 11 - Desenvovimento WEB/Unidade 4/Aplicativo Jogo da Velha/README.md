@@ -1,7 +1,7 @@
-# Aplicativo Calculadora
+# Aplicativo Jogo da Velha
 
 Programa utilizando Flutter.
-- [**App-calculadora**](https://aula-talento-teck.github.io/app-calculadora/)
+- [**App-jogo-da-velha**](https://aula-talento-teck.github.io/app-jogo-da-velha/)
 
 ## Introdução
 
