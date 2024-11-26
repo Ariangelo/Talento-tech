@@ -4,7 +4,7 @@ Essa unidade apresenta a motivação para desenvolver trabalhos utilizando a lin
 
 Como atividade está prevista a **criação e manipulação de páginas HTML** visando o conhecimento do HTML bem como os **procedimentos para hospedagem de uma página na WEB.**
 
-Para orientar a realização das atividades previstas o aluno deverá assistir os vídeos da Unidade 1 ([**Introdução HTML**](https://youtu.be/ayh5AfMpcrE)**,** [**Gerenciamento GIT**](https://youtu.be/O9Rha4FeEwE) **e** [**Upload de páginas html**](https://youtu.be/a08e0YhkpPY)), o aluno deverá realizar a atividade proposta e depois disponibilizar os links de acesso para as atividades realizadas.
+Para orientar a realização das atividades previstas o aluno deverá assistir os vídeos da Unidade 1 ([**Introdução HTML**](https://youtu.be/nRVaZEFsON4)**,** [**Gerenciamento GIT**](https://youtu.be/SWKyvojyw3A) **e** [**Upload de páginas html**](https://youtu.be/fAhyi_R-AM4)), o aluno deverá realizar a atividade proposta e depois disponibilizar os links de acesso para as atividades realizadas.
 
 **Criação e hospedagem da primeira página HTML**
 
@@ -16,9 +16,9 @@ Para conseguir criar sua primeira página HTML você deve:
 
 **VÍDEO AULA:**
 
-- [**Introdução HTML**](https://youtu.be/ayh5AfMpcrE)
-- [**Gerenciamento GIT**](https://youtu.be/O9Rha4FeEwE)
-- [**Upload de páginas html**](https://youtu.be/a08e0YhkpPY)
+- [**Introdução HTML**](https://youtu.be/nRVaZEFsON4)
+- [**Gerenciamento GIT**](https://youtu.be/SWKyvojyw3A)
+- [**Upload de páginas html**](https://youtu.be/fAhyi_R-AM4)
 
 **ATIVIDADE:**
 
