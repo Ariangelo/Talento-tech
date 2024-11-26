@@ -6,7 +6,7 @@ Nesta unidade  será apresentado ao aluno a forma básica de um sistema desenvol
 
 Como atividade está prevista a criação de um programa para aplicação de alguns conceitos.
 
-Para orientar a realização das atividades previstas o aluno deverá assistir os vídeos da Unidade 2 ([**Primeiro programa - parte 1**](https://youtu.be/ljtCB23pXek)**,** [**Primeiro programa - parte 2**](https://youtu.be/FJ_954-71sg)**,** [**Programa Layout**](https://youtu.be/AwAfxrYRaKQ) **e** [**Publicar aplicativo**](https://youtu.be/wrOuERlFb28)), o aluno deverá realizar a atividade proposta e depois disponibilizar os links de acesso para as atividades realizadas.
+Para orientar a realização das atividades previstas o aluno deverá assistir os vídeos da Unidade 2 ([**Primeiro programa - parte 1**](https://youtu.be/RFXcr7AVPhk)**,** [**Primeiro programa - parte 2**](https://youtu.be/hdFaT0ZwbUA)**,** [**Programa Layout**](https://youtu.be/iShmWczo0JU) **e** [**Publicar aplicativo**](https://youtu.be/lYPF-QJ8k5U)), o aluno deverá realizar a atividade proposta e depois disponibilizar os links de acesso para as atividades realizadas.
 
 **Programa Layout:**
 
@@ -19,10 +19,10 @@ Para executar o programa que crie este Layout você deve:
 
 **VÍDEO AULA:**
 
-- [**Primeiro programa - parte 1**](https://youtu.be/ljtCB23pXek)
-- [**Primeiro programa - parte 2**](https://youtu.be/FJ_954-71sg)
-- [**Programa Layout**](https://youtu.be/AwAfxrYRaKQ)
-- [**Publicar aplicativo**](https://youtu.be/wrOuERlFb28)
+- [**Primeiro programa - parte 1**](https://youtu.be/RFXcr7AVPhk)
+- [**Primeiro programa - parte 2**](https://youtu.be/hdFaT0ZwbUA)
+- [**Programa Layout**](https://youtu.be/iShmWczo0JU)
+- [**Publicar aplicativo**](https://youtu.be/lYPF-QJ8k5U)
 
 **ATIVIDADE:**
 
