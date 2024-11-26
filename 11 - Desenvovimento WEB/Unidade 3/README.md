@@ -6,7 +6,7 @@ Nesta unidade  será apresentado ao aluno a forma básica de um sistema desenvol
 
 Como atividade está prevista a criação de um programa para aplicação de alguns conceitos.
 
-Para orientar a realização das atividades previstas o aluno deverá assistir os vídeos da Unidade 3 ([**Programa calculadora - parte 1**](https://youtu.be/71y_zh4V3qM) **e** [**Programa calculadora - parte 2**](https://youtu.be/zbcGk42WUnQ)), o aluno deverá realizar a atividade proposta e depois disponibilizar os links de acesso para as atividades realizadas.
+Para orientar a realização das atividades previstas o aluno deverá assistir os vídeos da Unidade 3 ([**Programa calculadora - parte 1**](https://youtu.be/zbcGk42WUnQ) **e** [**Programa calculadora - parte 2**](https://youtu.be/71y_zh4V3qM)), o aluno deverá realizar a atividade proposta e depois disponibilizar os links de acesso para as atividades realizadas.
 
 **Programa Calculadora:**
 
@@ -19,8 +19,8 @@ Para executar o programa que crie este Layout você deve:
 
 **VÍDEO AULA:**
 
-- [**Programa calculadora - parte 1**](https://youtu.be/71y_zh4V3qM)
-- [**Programa calculadora - parte 2**](https://youtu.be/zbcGk42WUnQ)
+- [**Programa calculadora - parte 1**](https://youtu.be/zbcGk42WUnQ)
+- [**Programa calculadora - parte 2**](https://youtu.be/71y_zh4V3qM)
 
 **ATIVIDADE:**
 
