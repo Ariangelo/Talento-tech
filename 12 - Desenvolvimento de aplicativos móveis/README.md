@@ -2,21 +2,20 @@
 
 **EMENTA:**
 
-Esta disciplina aborda os fundamentos do desenvolvimento web, com foco na criação de sites e aplicações interativas utilizando HTML, CSS e JavaScript. Os estudantes aprenderão técnicas de design responsivo, interatividade na web, além de introdução à frameworks e bibliotecas populares. O curso inclui projetos práticos, usando a linguagem de programação Flutter, que proporcionam a aplicação dos conhecimentos adquiridos no desenvolvimento de soluções web.
+A disciplina abrange os fundamentos do desenvolvimento de aplicativos móveis para as plataformas Android e iOS. Os estudantes aprenderão sobre design de interface (UI) e experiência do usuário (UX), além de implementar funcionalidades básicas em aplicativos móveis. O curso inclui projetos práticos para que os alunos apliquem seus conhecimentos desenvolvendo aplicativos móveis completos
 
 **OBJETIVOS DE APRENDIZAGEM:**
 
 **Objetivo Geral:**
 
-- Capacitar os estudantes nos conceitos fundamentais e nas práticas de desenvolvimento web, utilizando HTML, CSS, JavaScript e frameworks/bibliotecas populares, preparando-os para desenvolver sites e aplicações web interativas e responsivas.
+- Capacitar os estudantes nos conceitos e práticas fundamentais para o desenvolvimento de aplicativos móveis nas plataformas Android e iOS, focando no design de interface e experiência do usuário, assim como na implementação de funcionalidades básicas.
 
 **Objetivos Específicos:**
 
-1. Compreender a estrutura e a semântica do HTML para construção de páginas web.
-2. Aprender a estilizar páginas web, incluindo design responsivo.
-3. Desenvolver habilidades em JavaScript para adicionar interatividade às páginas web.
-4. Introduzir os frameworks e bibliotecas mais utilizados no desenvolvimento web, como Flutter, React, Vue.js, etc.
-5. Realizar projetos práticos que integrem os conhecimentos adquiridos para consolidar o aprendizado.
+1. Compreender os conceitos e ferramentas básicas para o desenvolvimento de aplicativos móveis em Android e iOS.
+2. Desenvolver habilidades em design de interface (UI) e experiência do usuário (UX) para aplicativos móveis.
+3. Aprender a implementar funcionalidades básicas em aplicativos, como navegação, armazenamento de dados, e integração com APIs.
+4. Realizar projetos práticos que consolidem o aprendizado no desenvolvimento de aplicativos móveis completos.
 
 **METODOLOGIA**
 
