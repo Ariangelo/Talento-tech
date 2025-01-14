@@ -25,8 +25,9 @@ Para executar o programa que crie este Layout você deve:
 - [**Programa Jogo da Velha - parte 1**](https://youtu.be/8reoHDXUHxk)
 - [**Programa Jogo da Velha - parte 2**](https://youtu.be/Z9QFE3-Wt9c)
 
+
 **ATIVIDADE:**
 
-- A atividade “Programa Jogo da Velha na WEB” deverá ser realizada através da criação de um aplicativo WEB simples, que crie um Jogo da Velha em um layout responsivo, e sua publicação no Github.io, depois de criada e hospedada o aplicativo, o aluno deverá disponibilizar o link de acesso para este aplicativo, bem como o repositório onde o mesmo está armazenado
+- Desenvolver um programa para Android, utilizando o framework Flutter, que implemente um sistema CRUD (Create, Read, Update, Delete) para gerenciar informações de planetas. O sistema deve armazenar os dados localmente utilizando o banco de dados SQLite, oferecendo uma interface amigável para adicionar, visualizar, editar e excluir planetas.
 
 
