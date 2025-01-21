@@ -8,7 +8,7 @@ Nesta unidade  será apresentado ao aluno a forma básica de um sistema desenvol
 
 Nessa atividade é apresentado o passo-a-passo para criar um programa que mostra os comandos para gerenciar entrada e saída de dados, bem como as estruturas de dados necessárias para criação de procedimentos de gerenciamento e processamento dos dados necessários para criação de um CRUD.
 
-Para orientar a realização da atividade prevista o aluno deverá assistir os vídeos da Unidade 4 ([**Programa Jogo da Velha - parte 1**](https://youtu.be/Z9QFE3-Wt9c) **e** [**Programa Jogo da Velha - parte 2**](https://youtu.be/v0ZP6CbRaZA)), o aluno deverá realizar a atividade proposta e depois disponibilizar os links de acesso para as atividades realizadas.
+Para orientar a realização da atividade prevista o aluno deverá assistir os vídeos da Unidade 4 ([**Criação do APK**](https://youtu.be/0pAU-kKcLJg)), o aluno deverá realizar a atividade proposta e depois disponibilizar os links de acesso para as atividades realizadas.
 
 **Programa CRUD planetas:**
 
@@ -22,9 +22,7 @@ Para executar o programa que crie este Layout você deve:
 
 **VÍDEO AULA:**
 
-- [**Programa Jogo da Velha - parte 1**](https://youtu.be/8reoHDXUHxk)
-- [**Programa Jogo da Velha - parte 2**](https://youtu.be/Z9QFE3-Wt9c)
-
+- [**Criação do APK**](https://youtu.be/0pAU-kKcLJg))
 
 **ATIVIDADE:**
 
