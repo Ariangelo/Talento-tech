@@ -22,7 +22,7 @@ Para executar o programa que crie este Layout você deve:
 
 **VÍDEO AULA:**
 
-- [**Criação do APK**](https://youtu.be/0pAU-kKcLJg))
+- [**Criação do APK**](https://youtu.be/0pAU-kKcLJg)
 
 **ATIVIDADE:**
 
